@@ -1,8 +1,7 @@
-{
-  "posts": [
+
+  "posts": 
     {
       "node": 1,
       "led": "high"
     }
-  ]
-}
+  
